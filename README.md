@@ -11,13 +11,13 @@ A Football Club Management Platform
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/himanshu1690/football-club.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd football-club
 ```
 
 Install dependencies
